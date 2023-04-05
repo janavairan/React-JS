@@ -1,0 +1,48 @@
+.studentinfo{
+  background-color:#96974c;
+  text-align: center;
+}
+.header{
+  font-size: larger;
+}
+.name{
+  height: 30px;
+  margin-left: 20px;
+  width: 200px;
+}
+.age{
+  margin-left: 37px;
+  height: 30px;
+  width: 200px;
+}
+.phone{
+  height: 30px;
+  margin-left: 18px;
+  width: 200px;
+}
+.city{
+  height: 30px;
+  margin-left: 35px;
+  width: 200px;
+}
+.tabledata{
+  text-align: center;
+  padding: 10px;
+  padding-left: 625px;
+  
+}
+.data_name{
+  padding: 10px;
+}
+.data_age{
+  padding: 10px;
+}
+.data_mobile{
+  padding: 10px;
+}
+.data_city{
+  padding: 10px;
+}
+.data_delete{
+  padding: 10px;
+}
